@@ -1,0 +1,1 @@
+{"name":"Local: SUMNEQ7","url":"c:\\Users\\mokal\\OneDrive\\Desktop\\CP\\starters\\SUMNEQ7.cpp","tests":[{"id":1703083134608,"input":"3\n4\n3 4 2 5\n5\n1 1 1 1 1\n5\n1 2 1 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mokal\\OneDrive\\Desktop\\CP\\starters\\SUMNEQ7.cpp","group":"local","local":true}
