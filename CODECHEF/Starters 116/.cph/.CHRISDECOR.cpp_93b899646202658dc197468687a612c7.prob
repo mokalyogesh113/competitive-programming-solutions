@@ -1,0 +1,1 @@
+{"name":"Local: CHRISDECOR","url":"c:\\Users\\mokal\\OneDrive\\Desktop\\CP\\Starters 116\\CHRISDECOR.cpp","tests":[{"id":1704292292942,"input":"5\n4 6 6\n4 6 5\n5 4 21\n3 6 1\n5 6 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mokal\\OneDrive\\Desktop\\CP\\Starters 116\\CHRISDECOR.cpp","group":"local","local":true}
