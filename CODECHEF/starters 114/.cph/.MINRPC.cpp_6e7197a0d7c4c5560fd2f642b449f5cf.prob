@@ -1,0 +1,1 @@
+{"name":"Local: MINRPC","url":"c:\\Users\\mokal\\OneDrive\\Desktop\\CP\\starters 114\\MINRPC.cpp","tests":[{"id":1703688081165,"input":"3\n1\nR\n6\nRRRPPS\n10\nRSPRSPRSPR","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mokal\\OneDrive\\Desktop\\CP\\starters 114\\MINRPC.cpp","group":"local","local":true}
