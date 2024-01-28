@@ -1,0 +1,1 @@
+{"name":"Local: JOINSTATE","url":"c:\\Users\\mokal\\OneDrive\\Desktop\\New folder\\JOINSTATE.cpp","tests":[{"id":1706107112650,"input":"3\n3 2\n3 2 4\n3 5\n3 2 4\n4 5\n3 7 8 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mokal\\OneDrive\\Desktop\\New folder\\JOINSTATE.cpp","group":"local","local":true}

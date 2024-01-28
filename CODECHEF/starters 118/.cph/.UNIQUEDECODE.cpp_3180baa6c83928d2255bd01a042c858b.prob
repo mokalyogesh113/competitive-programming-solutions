@@ -1,0 +1,1 @@
+{"name":"Local: UNIQUEDECODE","url":"c:\\Users\\mokal\\OneDrive\\Desktop\\New folder\\UNIQUEDECODE.cpp","tests":[{"id":1706112409288,"input":"1\nabab\n\n3\naa\nab\nabab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mokal\\OneDrive\\Desktop\\New folder\\UNIQUEDECODE.cpp","group":"local","local":true}
